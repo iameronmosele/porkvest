@@ -1,0 +1,46 @@
+.icon__dashboard__font{
+    color: #CB5712;
+    display: inline-block;
+    font-size: 1.3rem;
+    line-height: 1;
+    vertical-align: middle;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.icon__color{
+    color: #CB5712;
+}
+
+i.ti-layout-grid3.menu-icon {
+    color: #CB5712 !important;
+}
+
+.btn-warning {
+    color: #ffffff;
+    background-color: #CB5712;
+    border-color: #f5a623;
+}
+
+.btn-warning-light{
+    background-color: rgba(203, 87, 18, 0.1);
+    color: #C4C4C4;
+}
+
+.text-warning {
+    color: #CB5712;
+}
+
+.warning-active-text{
+    color: #CB5712;;
+}
+
+.sponsorship__bg{
+    background-image: url('../images/sponsorship-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-position:center;
+    background-color: #CB5712;
+    border-radius: 10px;
+}
